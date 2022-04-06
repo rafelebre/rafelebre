@@ -6,6 +6,7 @@ Benvingut/da al meu super perfil del Github, soc de El Perello i soc estudiant d
 
 <img src="https://media2.giphy.com/media/5xwdcOc1fORdu4KsFU/giphy.gif?cid=790b7611e0eae19ceefe822efb46479ffe6bd3525974f3df&rid=giphy.gif&ct=g">
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #Breu descripció
 
 ⭐ Ara mateix estic estudiant 1R ASIX | IES DE L'EBRE (iesebre.com) 
