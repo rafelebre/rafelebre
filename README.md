@@ -1,4 +1,4 @@
-## Hola! 👋
+## Hola! Soc RAFEL MARGALEF TALARN 👋
 
 Benvingut/da al meu super perfil del Github, soc de El Perello i soc estudiant de 1r d'ASIX de l'institut de l'ebre
 
