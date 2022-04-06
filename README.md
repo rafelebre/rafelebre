@@ -5,7 +5,7 @@ Benvingut/da al meu super perfil del Github, soc de El Perello i soc estudiant d
 ![Twitter Follow](https://img.shields.io/twitter/follow/RAAAFAAA?color=%231DA1F2&logo=twitter&style=for-the-badge)![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCgY67eW3VWSP2tgys_egydA?color=%23FF0000&logo=youtube&style=social)
 
 <img src="https://media2.giphy.com/media/5xwdcOc1fORdu4KsFU/giphy.gif?cid=790b7611e0eae19ceefe822efb46479ffe6bd3525974f3df&rid=giphy.gif&ct=g">
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #Breu descripció
 
